@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thesalt.nooty",
+      "sha256_cert_fingerprints": [
+        "FE:B9:EA:D4:53:09:B0:98:44:57:50:E6:33:32:DD:A9:D4:9F:87:18:FB:94:EF:D3:83:AC:46:CE:48:69:0F:34"
+      ]
+    }
+  }
+]
